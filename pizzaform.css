@@ -1,0 +1,19 @@
+body{
+background-image:url("peppi.jpeg");
+font-family: "Arial Narrow",Helevetica,sans-serif;
+
+}
+
+form {
+padding:2%;
+width:30%;
+margin-left:35%;
+margin-top:15%;
+background-color:#ED6A3E;
+text-align:center;
+}
+
+.choose{
+text-align:left;
+margin-left:33%;
+}
